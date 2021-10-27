@@ -17,6 +17,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/c-plus-plus-logo.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<a> <img align="left" alt="OTHER" width="26px" src="https://cdn-icons-png.flaticon.com/512/2467/2467819.png?raw=true"/> </a>
 <br />
 <br />
 
@@ -27,6 +28,7 @@
 <a href="https://www.adobe.com/in/products/premierepro.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img align="left" alt="LINUX" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png?raw=true"/> </a> 
+<a> <img align="left" alt="OTHER" width="26px" src="https://cdn-icons-png.flaticon.com/512/2467/2467819.png?raw=true"/> </a>
 
 <br />
 <br />

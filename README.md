@@ -53,6 +53,6 @@
 
 
   <a href="https://github.com/RabihND">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RabihND&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RabihND&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true&&Cache-Control=no-cache"/>
   </a>
 

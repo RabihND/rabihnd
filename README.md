@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://rabihnd.github.io/rabih.nd/">
-  <img src="https://raw.githubusercontent.com/RabihND/rabihnd/main/bmc.png" width="200" alt="Buy me a Coffee"/>
+  <img src="https://raw.githubusercontent.com/RabihND/rabihnd/main/bmc-button.png" width="200" alt="Buy me a Coffee"/>
   </a>
 </p>
 

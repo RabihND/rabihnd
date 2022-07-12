@@ -14,7 +14,7 @@
 </p>
 
 <!--- <img alt="Loading" src="https://i.stack.imgur.com/hzk6C.gif"/> --->
-<img alt="Loading" src="https://z0sqrs02-a.akamaihd.net/loading_icons/loading-default.gif" width="20%" height="20%"/>
+<img alt="Loading" src="https://z0sqrs02-a.akamaihd.net/loading_icons/loading-default.gif" width="40%" height="40%"/>
 <!---![](https://assets.materialup.com/uploads/c6980863-d7bf-41a6-9272-b6e2465b60c2/attachment.gif)--->
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
 

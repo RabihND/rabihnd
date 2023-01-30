@@ -25,7 +25,7 @@
 <a href="https://www.mathworks.com" target="_blank"> <img align="left" alt="MATLAB" width="26px" src="https://www.mathworks.com//etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/favicon.20211012003841034.ico?raw=true"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://shwanoff.ru/wp-content/uploads/2018/06/c-plus-plus-logo.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> </a>
 <a href="https://www.github.com/" target="_blank"><img align="left" alt="GitHub" width="26px"  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> </a>
 <a> <img align="left" alt="OTHER" width="26px" src="https://cdn-icons-png.flaticon.com/512/2467/2467819.png?raw=true"/> </a>
 <br />

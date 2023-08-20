@@ -57,6 +57,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RabihND&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true&&Cache-Control=no-cache"/>
   </a>
 
-### My New Portfolio
-<!-- [<p align="center"><img src="page.png" target="_blank" rel="noopener noreferrer" width="100%" height="100%"></p>](https://rabihnd.netlify.app/) -->
+<!-- ### My New Portfolio
+[<p align="center"><img src="page.png" target="_blank" rel="noopener noreferrer" width="100%" height="100%"></p>](https://rabihnd.netlify.app/) -->
 
